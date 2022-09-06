@@ -1,0 +1,1 @@
+last_yellow_dresseds_team = [{'name': 'Azad', 'rating': 90}, {'name': 'Karim', 'rating': 80}, {'name': 'Huseyn', 'rating': 80}, {'name': 'Tacir', 'rating': 70}, {'name': 'Rafiq', 'rating': 60}, {'name': 'Shukran', 'rating': 90}]

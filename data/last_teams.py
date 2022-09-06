@@ -1,0 +1,2 @@
+lats_team_1 = [{'name': 'Azad', 'rating': 90}, {'name': 'Karim', 'rating': 80}, {'name': 'Huseyn', 'rating': 80}, {'name': 'Tacir', 'rating': 70}, {'name': 'Rafiq', 'rating': 60}, {'name': 'Shukran', 'rating': 90}]
+lats_team_2 = [{'name': 'Hasan', 'rating': 70}, {'name': 'Sabuhi', 'rating': 60}, {'name': 'Tural', 'rating': 70}, {'name': 'Nicat', 'rating': 80}, {'name': 'Ahmad', 'rating': 90}, {'name': 'Iqbal', 'rating': 70}]
