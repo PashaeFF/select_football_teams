@@ -20,6 +20,8 @@ class FootballTeam(selected_options.SelectedFunctions):
                 return self.select_teams()
             elif select_main == "5":
                 return self.last_selected_teams()
+            elif select_main == "q" or select_main == "Q":
+                return exit()
             else:
                 print(self.wrong_input)
                 self.main()
